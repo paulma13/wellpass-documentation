@@ -72,3 +72,11 @@ You can cancel a past session. The same rules apply — bookings are cancelled, 
 ### Error during cancellation
 
 If the cancellation itself fails, the dialog shows: "Failed to cancel class — please contact the Wellpass team." The session is not cancelled. Contact the Wellpass team to investigate.
+
+
+
+## Related
+
+- [Adding a client to a class](adding-a-client-to-a-class.md)
+- [Editing a class session](editing-a-class-session.md)
+- [Bulk editing class sessions](bulk-editing-class-sessions.md)

@@ -82,3 +82,10 @@ If the session is full, the **Add client** button adds the client to the waitlis
 | Session is full | The client is offered a place on the waitlist instead. |
 | Client has a package but it is expired or has no sessions remaining | The expired or depleted package does not appear in the package selection step. The booking proceeds as cash. |
 | New walk-in client has no Wellpass account | The package step is skipped entirely. Walk-in clients who have not previously visited your studio cannot be matched to a package at the time of booking. |
+
+
+
+## Related
+
+- [Creating class sessions](creating-class-sessions.md)
+- [Editing a class session](editing-a-class-session.md)
