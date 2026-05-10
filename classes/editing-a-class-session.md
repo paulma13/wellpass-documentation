@@ -99,3 +99,11 @@ The following fields can be edited on both a single session and in bulk:
 **No matching sessions.** In bulk editing, if your date range and filters produce zero matching sessions, the **Save Changes** button is disabled and no action is taken.
 
 **Notifications.** When a session is saved, clients with confirmed bookings receive a push notification: "Your class at [studio name] has been updated…" Instructors assigned to the session also receive a notification on the staff mobile app.
+
+
+
+## Related
+
+- [Creating class sessions](creating-class-sessions.md)
+- How to cancel a class session
+- How to manage bookings for a class session

@@ -112,3 +112,12 @@ The template now appears in the class list. You can proceed to schedule sessions
 **Classes not enabled.** If your studio does not have the Classes feature enabled, the **Classes** page shows a "Classes not enabled" message instead of the class list. Contact the Wellpass team to enable it.
 
 **Role restriction.** Only users with the **Owner** or **Manager** role can create class templates or schedule sessions. Users with other roles do not see the **Create Class Template** or **Schedule Sessions** controls.
+
+
+
+## Related
+
+- [Editing a class session](editing-class-sessions.md)
+- [Bulk editing class sessions](bulk-editing-class-sessions.md)
+- [Cancelling a class session](cancelling-a-class-session.md)
+- [Adding a client to a class](adding-a-client-to-a-class.md)

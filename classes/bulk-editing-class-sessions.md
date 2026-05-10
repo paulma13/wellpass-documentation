@@ -139,3 +139,11 @@ Cancelling sessions is permanent and cannot be undone from the app.
 - Clients who paid by card online receive a refund.
 - Clients on the waitlist for those sessions have their waitlist entries cancelled.
 - Clients with a booking or waitlist entry receive a push notification that the session has been cancelled. Walk-in clients who have no account do not receive a notification.
+
+
+
+## Related
+
+- [How to edit a single class session](editing-a-class-session.md)
+- [How to create class sessions](creating-class-sessions.md)
+- [How to cancel a single class session](editing-a-class-session.md)
