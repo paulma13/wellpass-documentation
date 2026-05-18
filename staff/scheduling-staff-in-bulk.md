@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 
 ## Overview
 
-Use this when you need to set the same availability schedule for several staff members at once — for example, at the start of a new month when you want to configure working hours for your whole appointment team. Instead of opening each person's profile individually, you can define a single schedule and apply it to as many staff members as you choose in one save. This is done through the **Schedule Staff** tool on the Staff page.
+Use this when you want to schedule staff, set availability, set working hours, or set up when a staff member is available for appointments. This is the primary and recommended way to configure availability in Wellpass — whether you are setting up one person's hours or applying the same schedule to your entire appointment team at once. You will find this under **Schedule Staff** on the Staff page. If you only need to make a specific, one-off adjustment — like blocking a single day or adding an extra slot — use the Availability Calendar on the staff member's individual profile instead.
 
 ## Before you start
 

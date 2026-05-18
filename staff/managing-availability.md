@@ -10,7 +10,7 @@ last_updated: 2026-05-18
 
 ## Overview
 
-Use this when you need to set or change the times a staff member is available for appointments — for example, setting their regular working hours, blocking out a day they are unavailable, or restoring time that was previously blocked. Availability controls when clients can book appointments with a specific staff member. This is managed from the **Appointments Availability** tab in a staff member's profile.
+Use this when you need to make a specific, one-off adjustment to a staff member's availability — for example, blocking a single day they are out, adding one extra time slot for a specific date, or removing a block to restore time. This is not the right place to set up regular working hours or a full availability schedule. If you want to set working hours, schedule a staff member, or set up their availability from scratch, use **Schedule Staff** on the Staff page instead. This calendar is for targeted, individual changes on top of an existing schedule.
 
 ## How to open the Appointments Availability tab
 
