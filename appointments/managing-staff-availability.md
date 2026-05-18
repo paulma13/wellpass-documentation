@@ -10,7 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-Staff availability controls when each staff member is shown as bookable on the appointments board. You can set a recurring base schedule for each staff member, add time blocks for specific periods they are unavailable, and use bulk scheduling to assign schedules across multiple staff at once.
+Use this when you need to set up or update when a staff member is available for appointments — their regular working hours, days off, or one-off blocks of unavailable time. Getting this right is what makes the appointments board useful: slots outside a staff member's schedule show as dark grey and cannot be booked, and blocked times show as striped so you and your team can see availability at a glance. You can set a recurring weekly schedule for each person individually, add a one-off block for a specific time, or use bulk scheduling to set hours for multiple staff members at once. Studio owners typically do this when onboarding new staff, at the start of a new term, or whenever a coach's hours change.
 
 ---
 

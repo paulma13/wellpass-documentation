@@ -10,7 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-Appointment services are the templates that define what you offer — for example, "60-Minute Private Reformer" or "Nutritional Consultation." You create and edit services from the **Appointments** page. Services can be made inactive to hide them from clients and staff without deleting them.
+Use this when you need to set up, update, rename, or retire the types of sessions you offer as private appointments — things like "60-Minute Private Reformer", "Stretch Therapy", or "Nutritional Consultation." Services are the templates that define what the session is, how long it lasts, and what it costs by default; you create them once and then book them as many times as you need. You can also come back here to change the price, adjust the duration, update the description, or turn a service off so clients can no longer book it. Studio owners typically manage services when launching a new offering, changing their pricing, or cleaning up services they no longer offer.
 
 ---
 

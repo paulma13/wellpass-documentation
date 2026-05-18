@@ -13,7 +13,6 @@ last_updated: 2026-05-11
 The appointments board is the daily view on the **Calendar** page. It shows all staff members who have the Appointments role enabled, arranged side by side as columns. Each row represents a time slot, and the entire view covers the full working day from top to bottom.
 
 The board gives you a live overview of every staff member's schedule for the selected date — who is booked, who is available, and when time has been blocked off.
-
 ---
 
 ## Board layout

@@ -10,10 +10,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-Bulk editing lets you update multiple sessions of the same class at once across a date range. Instead of opening each session individually, you define a scope — class, branch, and date range — then optionally narrow it down by day of the week, start time, or instructor. Only the fields you fill in are changed; fields you leave blank stay exactly as they are.
-
-You can also use the same workflow to cancel a group of sessions in bulk. Cancelling sessions is a separate action from editing them and requires an extra confirmation step.
-
+Use this when you need to change, update, or fix the same thing across a group of sessions all at once — for example, if an instructor is leaving and you need to swap them out of all their upcoming classes, or if you need to adjust the price, time, or capacity for a whole run of sessions. Instead of opening every session one by one, you pick a class, a date range, and optional filters to narrow down exactly which sessions to touch, then fill in only the fields you want to change. Studio owners and managers typically use this after a schedule change, a staffing update, or when setting up a special pricing period. You can also use this same flow to cancel a batch of sessions in one go, which is covered at the bottom of this page.
 
 
 ## How to bulk edit class sessions

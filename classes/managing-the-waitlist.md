@@ -10,7 +10,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-When a class session reaches its maximum capacity, clients can join a waitlist through the Wellpass app. Staff can view everyone waiting — either per session or across all of today's sessions at once — and manually promote any waitlisted client to a confirmed booking when a spot becomes available. There is no automatic promotion; every promotion requires a deliberate staff action.
+Use this when a class is full and you want to see who is waiting, move someone off the waitlist, or get a client into a session when a spot opens up. Clients join the waitlist themselves through the app, and you handle it from your end — either from the dashboard for a quick overview of today's waiting clients, or from the session detail panel when you are looking at one specific class. Promoting a client means confirming their booking and notifying them automatically. Nothing happens automatically when a spot frees up; you always decide who gets in. Studio owners and front desk staff typically check this throughout the day when a class fills up and clients are hoping to get in.
 
 ## How the waitlist works
 

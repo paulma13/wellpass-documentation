@@ -10,8 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-The appointments board is on the **Calendar** page and shows all staff members' schedules side by side for a given day. Each column represents one staff member, and each booked appointment appears as a card in that column. Open slots and blocked times are also visible so you can see availability at a glance.
-
+Use this when you want to see what is happening with appointments on any given day — who is booked with which staff member, which time slots are still open, and whether anyone has a block or time off. The board lays out every staff member's day side by side so you can take in the whole picture at a glance, find a specific client's appointment quickly, or spot gaps in the schedule. Studio owners and front desk staff use this throughout the day to stay on top of the appointment schedule, check who is coming in, and navigate to individual bookings when something needs to be updated or managed.
 ---
 
 ## Switching to the appointments board

@@ -10,8 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-After an appointment is booked, you can update the assigned staff member, adjust the price, edit notes, reschedule the appointment to a different time, or cancel it. All of these actions are available from the appointment detail modal on the board.
-
+Use this when something about an already-booked appointment needs to change — the time needs to move, the coach needs to be swapped out, the price needs to be adjusted, or the appointment needs to be cancelled altogether. You can also add or update notes on the booking at any time. All of these actions — editing, rescheduling, and cancelling — are done from the appointment card on the board. Studio owners and front desk staff use this throughout the day to handle last-minute changes, reassign sessions when a staff member is unavailable, or process cancellations and refunds.
 ---
 
 ## How to open an appointment

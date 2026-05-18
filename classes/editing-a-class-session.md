@@ -11,9 +11,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-You can edit a class session in two ways: edit a single session from the calendar, or bulk-edit multiple sessions from the Classes page. Single-session editing lets you change one specific occurrence. Bulk editing lets you change a range of sessions for a class at once, with optional filters to narrow which sessions are affected.
-
-Changes you make to a session do not affect the class template or any other sessions. When a session is saved, clients who have booked it receive a push notification informing them the session has been updated.
+Use this when you need to change, update, or adjust something about a specific class session — like moving the time, swapping the instructor, changing the number of spots, or updating the price for a particular date. Editing a single session only affects that one occurrence; it does not change the class template or any other sessions on the calendar. You can also edit a whole range of sessions at once using the bulk edit flow on the Classes page, which is useful when you need to make the same change across many dates. Clients who are already booked into a session automatically receive a notification when you save changes to it.
 
 
 

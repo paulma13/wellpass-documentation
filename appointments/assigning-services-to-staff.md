@@ -10,8 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-Each staff member who performs appointments needs to have the relevant services assigned to their profile. This controls which services a staff member can be booked for. Services are linked from the **Services** tab on the staff member's profile.
-
+Use this when you need to set up which services a staff member offers so they can be booked for appointments. If a coach is not showing up as an option when you try to book a specific service, it is usually because that service has not been linked to their profile yet. You do this from the staff member's profile on the Staff page, under the Services tab. You will also need to make sure the Appointments role is enabled on their profile — without it, the staff member will not appear on the appointments board at all, even if they have services assigned. Studio owners typically do this when onboarding a new staff member or when adding a new service type to an existing coach's offering.
 ---
 
 ## How to assign a service to a staff member

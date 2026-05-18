@@ -10,7 +10,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-You can remove a single client from a class session without affecting other bookings or cancelling the session itself. When you cancel a booking, the client's spot is freed up, their package session is automatically returned if they paid with a package, and they receive a push notification on the Wellpass app. For bookings paid by online card, you choose whether to issue a refund at the time of cancellation.
+Use this when one specific client needs to be removed from a class — because they called to cancel, something came up, or you need to free their spot for someone else. This removes, drops, or deletes that one client's booking without touching any other bookings on the session or cancelling the class itself. The client gets notified automatically through the app, their package credit is returned right away if they paid with a package, and if they paid by card online you can choose whether to issue a refund at the same time. Studio owners and front desk staff use this throughout the day whenever a client needs to be taken off a session.
 
 ## How to cancel a client's booking
 

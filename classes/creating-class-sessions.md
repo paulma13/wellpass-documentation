@@ -10,7 +10,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-Class sessions are the individual scheduled occurrences of a class — for example, "Monday Pilates Reformer at 9:00 am on June 2." You create sessions in bulk using a four-step wizard that generates recurring sessions across a date range. Before you can schedule sessions, a class template must already exist.
+Use this when you are ready to put classes onto your calendar — for example, scheduling a new term, adding sessions for the next few months, or getting a brand-new class type onto the schedule for the first time. Creating sessions means generating the actual dated, timed slots that clients can see and book; it is different from creating the class template, which is just the blueprint. You do both from the Classes page: first make sure the class template exists, then use the session wizard to generate as many recurring sessions as you need across a date range in one go. Studio owners and managers typically do this when opening a new season, onboarding a new instructor, or launching a new class offering.
 
 
 

@@ -10,7 +10,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-Cancelling a class session removes it from the schedule and cancels every active booking attached to it. All clients who are booked or on the waitlist receive an in-app push notification. Package sessions consumed by those bookings are automatically returned to each client's package. If any clients paid by card online, you can optionally process their refunds at the same time. The action cannot be undone.
+Use this when you need to remove a class session from the schedule entirely — for example, an instructor calls in sick, the studio is unexpectedly closed, or the session just is not running that day. Cancelling a session takes down the whole class, notifies every booked client automatically, returns package sessions to anyone who used a package to book, and gives you the option to refund clients who paid by card online. This is different from cancelling one individual client's booking — this wipes out the entire session and everyone on it. The action cannot be undone, so review the confirmation carefully before proceeding.
 
 
 

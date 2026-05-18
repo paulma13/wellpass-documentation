@@ -10,7 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-After a client attends their appointment, you can update the attendance status to reflect what happened. The three statuses available are **Confirmed**, **Attended**, and **No-show**. Statuses are updated from the appointment detail modal.
+Use this after an appointment has taken place to record what happened — whether the client showed up, completed their session, or did not turn up at all. Marking someone as attended or a no-show keeps your records accurate and gives you a clear history of each client's visit pattern over time. You update the status by opening the appointment card on the board and selecting the right option. Studio owners and coaches typically do this at the end of each appointment or at the end of the day when reviewing the schedule.
 
 ---
 

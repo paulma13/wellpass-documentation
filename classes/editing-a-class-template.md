@@ -10,7 +10,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-A class template is the master record for a class — it holds the default name, type, description, duration, capacity, price, gender restriction, cancellation window, cover image, and active status. Editing a template updates only those defaults. It does not change any sessions that have already been scheduled, including upcoming ones. If you need to change scheduled sessions, use the Bulk Edit Sessions feature instead.
+Use this when you need to update the core details of a class — things like its name, description, default price, duration, capacity, cover image, or cancellation policy. This is where you go to fix or change the class itself, not individual sessions. Keep in mind that editing the template only updates the defaults going forward; it does not change any sessions you have already scheduled, including upcoming ones. If you need to update sessions that are already on the calendar, use Bulk Edit Sessions instead. Studio owners typically come here when launching a rebrand, adjusting a default price across the board, or toggling a class on or off for clients.
 
 ## How to edit a class template
 

@@ -10,8 +10,7 @@ last_updated: 2026-05-10
 
 ## Overview
 
-You can add any client to a class session directly from the session detail panel. This works for clients who already have a Wellpass account, existing studio clients who do not have a Wellpass account, and first-time walk-in clients. If the session is full, you can add a client to the waitlist instead.
-
+Use this when a client walks in, calls ahead, or asks you to add them to a class — whether they are an existing member, a returning client without an account, or someone brand new to your studio. This covers manually booking, registering, or signing up a client for a specific session directly from the calendar, without the client needing to do anything themselves. You can also use this to put a client on the waitlist when the session is already full. It works for any type of client: Wellpass account holders, previous clients you already have on file, and first-time walk-ins you are adding on the spot.
 
 
 ## How to add a client to a class session

@@ -10,7 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-When creating an appointment, you select the client after choosing the service. The client selection flow supports existing Wellpass clients, studio clients without a Wellpass account, and brand-new walk-in clients. After a client is selected, the system shows any eligible packages so you can apply one to the booking.
+Use this when you are booking an appointment and need to find, select, or add the client you are booking it for. This is part of the appointment creation flow — after you pick the service, you search for the client by name and select them, or add them as a walk-in if they are new to the system. Once the client is selected, any packages they have that can be used for appointments are shown so you can apply one right away. This works for existing Wellpass members, returning studio clients without an account, and brand-new clients you are registering on the spot.
 
 ---
 

@@ -10,8 +10,7 @@ last_updated: 2026-05-11
 
 ## Overview
 
-You can book a client into an appointment slot directly from the appointments board. The flow walks you through selecting a service, finding or creating the client, optionally applying a package, and confirming the booking.
-
+Use this when you need to book, schedule, or reserve an appointment for a client — whether they called ahead, walked in, or you are filling a slot on behalf of a coach. You do this directly from the appointments board by clicking the time slot you want to book, then working through a short flow to pick the service, find the client, and apply a package if they have one. This works for existing members, returning clients without an account, and brand-new walk-ins you are adding on the spot. Studio owners and front desk staff use this whenever a client needs an appointment set up and is not doing it themselves through the app.
 ---
 
 ## How to create an appointment
