@@ -4,7 +4,7 @@ audience: staff-web users
 app: staff-web
 category: classes
 last_updated: 2026-05-10
---- 
+---
 
 
 # How to edit a class session
