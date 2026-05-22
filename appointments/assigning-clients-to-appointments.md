@@ -3,7 +3,7 @@ title: How to assign clients to appointments
 audience: staff-web users
 app: staff-web
 category: appointments
-last_updated: 2026-05-11
+last_updated: 2026-05-22
 ---
 
 # How to assign clients to appointments
@@ -29,13 +29,21 @@ If the client does not appear in the results, a prompt allows you to add them as
 
 ### Walk-in clients
 
-If a client cannot be found in the search results, you can add them as a walk-in entry. You will need to provide:
+If a client cannot be found in the search results, you can add them as a walk-in entry. Fill in the add-client form with the following:
 
-- First name
-- Last name
-- Phone number (required)
+- **First name** (required)
+- **Last name** (required)
+- **Email** (optional)
+- **Phone** (required) — select the country code from the dropdown, then enter the number
 
-Walk-in clients do not have a Wellpass account. They will not receive push notifications. If a walk-in client later creates a Wellpass account using the same phone number, their appointment history is automatically linked to their new account.
+**Phone confirmation step:** After submitting the form, the system shows the phone number you entered in large text and asks you to confirm it before proceeding. Click **Confirm** to continue, or click **Edit** to go back and correct the number. This step exists to catch typos — the phone number is how the system identifies clients across visits.
+
+**Wellpass account check:** After you confirm the phone number, the system checks whether it belongs to an existing Wellpass account.
+
+- If a match is found, the system shows "Wellpass user found on app: **[first name]**" and asks whether this is the correct person. Click **Yes, confirm** to link the client to their Wellpass account, or click **No, go back** to return to the form and correct the number. The system shows the first name only to protect the privacy of other Wellpass users.
+- If no match is found, the client is added as a new walk-in and the booking proceeds.
+
+Walk-in clients do not have a Wellpass account and will not receive push notifications. If a walk-in client later creates a Wellpass account using the same phone number, their appointment history is automatically linked to their new account.
 
 ---
 

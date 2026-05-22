@@ -3,7 +3,7 @@ title: How to add a client to a class session
 audience: staff-web users
 app: staff-web
 category: classes
-last_updated: 2026-05-10
+last_updated: 2026-05-22
 ---
 
 # How to add a client to a class session
@@ -33,9 +33,38 @@ Use the search field to find the client you want to add.
 - Type the client's name. Results appear as you type.
 - Select the client from the list to confirm their identity.
 
-If the client does not appear in the search results, a **Did not find client?** prompt appears. Click it to add the client as a new walk-in entry. You will be asked to enter their first name, last name, and phone number.
+If the client does not appear in the search results, a **Did not find client?** prompt appears. Click it to open the add-client form.
+
+### Step 3a — Fill in the client's details (new walk-in only)
+
+Complete the form with the client's information:
+
+- **First name** (required)
+- **Last name** (required)
+- **Email** (optional)
+- **Phone** (required) — select the country code from the dropdown, then enter the number
 
 > **Note:** Always search before adding a new client. This prevents duplicate records when the same person attends again in the future.
+
+### Step 3b — Confirm the phone number
+
+After filling in the form, the system shows the phone number you entered in large text and asks you to confirm it before continuing. This step exists to catch typos — the phone number is how the system identifies clients across visits.
+
+- Click **Confirm** to proceed.
+- Click **Edit** to go back and correct the number.
+
+### Step 3c — Wellpass account check (if applicable)
+
+After you confirm the phone number, the system checks whether it belongs to an existing Wellpass account.
+
+**If a Wellpass account is found:** the system shows "Wellpass user found on app: **[first name]**" and asks "Is this the correct person for the phone number you entered?"
+
+- Click **Yes, confirm** — the client is linked to their Wellpass account. Their profile will show the **Wellpass Account** chip.
+- Click **No, go back** — you return to the form to correct the phone number.
+
+The system shows the first name only (not the full name) to protect the privacy of other Wellpass users.
+
+**If no Wellpass account is found:** the client is added as a new walk-in immediately and the booking proceeds.
 
 ### Step 4 — Select a package (if applicable)
 
@@ -80,7 +109,7 @@ If the session is full, the **Add client** button adds the client to the waitlis
 | Client is already booked for this session | The modal shows an error: "This client is already booked for this class." No duplicate booking is created. |
 | Session is full | The client is offered a place on the waitlist instead. |
 | Client has a package but it is expired or has no sessions remaining | The expired or depleted package does not appear in the package selection step. The booking proceeds as cash. |
-| New walk-in client has no Wellpass account | The package step is skipped entirely. Walk-in clients who have not previously visited your studio cannot be matched to a package at the time of booking. |
+| New walk-in client has no Wellpass account | The package step is skipped entirely. A brand-new walk-in has no package history, so there is nothing to apply. |
 
 
 
