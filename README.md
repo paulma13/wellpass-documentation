@@ -1,6 +1,6 @@
-# Wellpass Documentation Chatbot (RAG)
+# SaaS Documentation Chatbot (RAG)
 
-A Retrieval-Augmented Generation chatbot that answers studio owners' and staff's questions using Wellpass's own documentation — nothing else. It runs as two Supabase Edge Functions: one that answers questions in real time, and one that keeps the underlying knowledge base in sync with the documentation source automatically.
+A Retrieval-Augmented Generation chatbot that answers studio owners' and staff's questions using SaaS's own documentation — nothing else. It runs as two Supabase Edge Functions: one that answers questions in real time, and one that keeps the underlying knowledge base in sync with the documentation source automatically.
 
 ---
 
@@ -55,7 +55,7 @@ This is the part that keeps the chatbot's knowledge current without any manual r
 
 ```mermaid
 flowchart LR
-    A["Docs repo (GitHub)<br/>wellpass-documentation"] -->|git push to main| B[GitHub Webhook]
+    A["Docs repo (GitHub)<br/>SaaS-documentation"] -->|git push to main| B[GitHub Webhook]
     B -->|POST push payload| C["ingest-docs<br/>(Supabase Edge Function)"]
     C --> D["Parse frontmatter +<br/>chunk by ## / ### headings"]
     D --> E["Embed chunks<br/>(Voyage voyage-3)"]
@@ -71,7 +71,7 @@ flowchart LR
 
 **Two ways this runs:**
 
-- **Automatic, via GitHub Webhook** — a webhook is configured on the `wellpass-documentation` repo (GitHub Settings → Webhooks, not GitHub Actions — a webhook is a simple HTTP callback GitHub fires on repo events, separate from the Actions/CI system) that sends a `POST` to the `ingest-docs` function on every push to `main`. The function reads the push payload, and for every added/modified `.md` file it re-chunks and re-embeds it; for every removed file, it deletes the corresponding chunks. This means editing a doc and pushing to `main` is enough — the vector store updates itself within seconds, with no manual re-indexing step.
+- **Automatic, via GitHub Webhook** — a webhook is configured on the `SaaS-documentation` repo (GitHub Settings → Webhooks, not GitHub Actions — a webhook is a simple HTTP callback GitHub fires on repo events, separate from the Actions/CI system) that sends a `POST` to the `ingest-docs` function on every push to `main`. The function reads the push payload, and for every added/modified `.md` file it re-chunks and re-embeds it; for every removed file, it deletes the corresponding chunks. This means editing a doc and pushing to `main` is enough — the vector store updates itself within seconds, with no manual re-indexing step.
 - **Manual, via full resync** — calling the function with `{ full_resync: true }` walks the entire repo tree, re-chunks and re-embeds every `.md` file, and prunes chunks for any file that no longer exists in the repo. Used for bulk re-indexing (e.g. after a chunking-logic change) rather than day-to-day updates.
 
 ---
